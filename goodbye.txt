@@ -1,8 +1,9 @@
+fwefwefwefwef
 good bye gitfwfwefwe
 동시에 같이 수정
 good bye gitfwfwefwegergerg
 
-
 굿바이바이바이
 수정1
 수정2
+git pull할 때 충돌 발생해서, 수정해서 병합
